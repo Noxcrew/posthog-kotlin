@@ -1,4 +1,4 @@
-package dev.kezz.posthog.internal
+package com.noxcrew.posthog.internal
 
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.descriptors.PrimitiveKind

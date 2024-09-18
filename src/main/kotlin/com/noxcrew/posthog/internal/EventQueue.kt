@@ -1,6 +1,6 @@
-package dev.kezz.posthog.internal
+package com.noxcrew.posthog.internal
 
-import dev.kezz.posthog.PostHog
+import com.noxcrew.posthog.PostHog
 import kotlinx.coroutines.CoroutineName
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

@@ -1,4 +1,4 @@
-package dev.kezz.posthog
+package com.noxcrew.posthog
 
 import kotlinx.serialization.json.JsonElement
 import kotlinx.serialization.json.JsonPrimitive

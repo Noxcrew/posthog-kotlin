@@ -6,10 +6,10 @@ posthog-kotlin is a Kotlin library to interact with the PostHog API.
 ## Features
 posthog-kotlin currently supports the following features:
 
-| Feature | Implemented |
-| --- | --— |
-| Single/Batch events | ✅ |
-| Identify | ✅ |
+| Feature | Implemented   |
+| --- |--- |
+| Single/Batch events | ✅             |
+| Identify | ✅             |
 
 ## Usage
 ### Dependency

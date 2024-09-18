@@ -1,7 +1,7 @@
-package dev.kezz.posthog
+package com.noxcrew.posthog
 
-import dev.kezz.posthog.internal.EventQueue
-import dev.kezz.posthog.internal.PostHogEvent
+import com.noxcrew.posthog.internal.EventQueue
+import com.noxcrew.posthog.internal.PostHogEvent
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.SupervisorJob
 import kotlinx.serialization.json.JsonObject
