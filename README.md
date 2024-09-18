@@ -1,4 +1,4 @@
-# SMP
+# posthog-kotlin
 <img alt="GitHub License" src="https://img.shields.io/github/license/noxcrew/posthog-kotlin"> <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/noxcrew/posthog-kotlin/build.yml"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/noxcrew/posthog-kotlin">
 
 posthog-kotlin is a Kotlin library to interact with the PostHog API.
