@@ -3,6 +3,9 @@
 
 posthog-kotlin is a Kotlin library to interact with the PostHog API.
 
+> [!WARNING]  
+> This library is no longer maintained. We suggest using [posthog-java](https://github.com/hollow-cube/posthog-java) instead.
+
 ## Features
 posthog-kotlin currently supports the following features:
 
